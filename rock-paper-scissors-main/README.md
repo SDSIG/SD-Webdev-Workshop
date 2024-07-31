@@ -28,6 +28,9 @@ Players can select Rock, Paper, or Scissors by clicking on the respective button
 ![image1](demo1/Screenshot%20(766).png)
 ![image2](demo1/Screenshot%20(767).png)
 
+## Live Demo
+https://sanjaychethu.github.io/rock-paper-scissors/
+
 ## Conclusion
 
 The Rock-Paper-Scissors game is a fun and straightforward project that demonstrates the use of JavaScript and DOM methods to create an interactive web application. It provides a great opportunity to practice basic web development skills.
